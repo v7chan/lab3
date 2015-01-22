@@ -41,8 +41,25 @@ body {
      text-align: center;
 }
 
+.project p {
+     margin-top: 5px;
+}
+
+a:hover {
+     text-decoration: none;
+}
+
+a:visited {
+     text-decoration: none;
+}
+
 .jumbotron p.active {
      color: #1f6ddd;
+}
+
+.project-description {
+     /*margin-top: 10px;*/
+     padding: 10px;
 }
 
 form {
